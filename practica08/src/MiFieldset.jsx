@@ -1,3 +1,4 @@
+//import "./MiFieldset.css";
 function MiFieldset(props) {
   const { titulo, text1, text2 } = props;
   return (
